@@ -1,7 +1,7 @@
 {
   "name": "webdevtemplate",
   "version": "1.0.0",
-  "description": "Template for static websites using Sass.",
+  "description": "Template for static websites using Sass and Parcel.",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",

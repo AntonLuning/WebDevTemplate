@@ -1,18 +1,12 @@
-# WebDevTemplate
+# Web Development Template
 
-Template for static websites using Sass.
+Template for static websites using Sass and Parcel.
 
+***
 
-- Require npm to be installed (Node js)
+## Getting Started
+Run `npm install` (require Node.js to be installed).
 
-npm install
-
-
-npm run dev
-npm run build
-
-
-
-
-
-    "sass": "sass --watch src/scss:dist/css",
+### Run the app
+- To build in dev, run `npm run dev`.
+- To build distribution, run `npm run build`.
