@@ -1,5 +1,18 @@
 # WebDevTemplate
 
-npm install node-sass -D
+Template for static websites using Sass.
 
-npm run sass
+
+- Require npm to be installed (Node js)
+
+npm install
+
+
+npm run dev
+npm run build
+
+
+
+
+
+    "sass": "sass --watch src/scss:dist/css",
